@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="rule/CashTracker/Resources/scripts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_25"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.dsld.classpathcontainer"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-core.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-el.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-jasper.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-logging-juli.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat/tomcat-embed-websocket.jar"/>
+	<classpathentry kind="lib" path="libs/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-all-2.0.5.jar"/>
+	<classpathentry kind="lib" path="libs/h2-1.3.170.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-1.1.3.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/mail.jar"/>
+	<classpathentry kind="lib" path="libs/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="libs/jdbc/postgresql-9.2-1004.jdbc4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="libs/saxon9he.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
